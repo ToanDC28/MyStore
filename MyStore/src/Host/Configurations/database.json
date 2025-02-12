@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "postgresql",
+    "ConnectionString": "Host=localhost;Port=5432;Database=MyStore;Username=postgres;Password=123Pa$$word!;Include Error Detail=true"
+  }
+}

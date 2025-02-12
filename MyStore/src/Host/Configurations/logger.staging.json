@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "MyStore",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}

@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using MyStore.Application.Common.Events;
+global using MyStore.Application.Common.Exceptions;
+global using MyStore.Application.Common.FileStorage;
+global using MyStore.Application.Common.Interfaces;
+global using MyStore.Application.Common.Models;
+global using MyStore.Application.Common.Persistence;
+global using MyStore.Application.Common.Specification;
+global using MyStore.Application.Common.Validation;
+global using MyStore.Domain.Catalog;
+global using MyStore.Domain.Common;
+global using MyStore.Domain.Common.Contracts;
+global using MyStore.Shared.Notifications;
