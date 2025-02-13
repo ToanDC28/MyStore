@@ -1,8 +1,11 @@
-﻿using System;
+﻿using MyStore.Domain.Inventory;
+using MyStore.Domain.Payments;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace MyStore.Domain.Orders;
@@ -16,4 +19,8 @@ public class Order : AuditableEntity, IAggregateRoot
     public byte[] Images { get; set; }
 
     public OrderStatus Status { get; set; }
+    [JsonIgnore]
+    public ICollection<Exportation>? Exportations { get; set; }
+    [JsonIgnore]
+    public Payment? Payment { get; set; }
 }

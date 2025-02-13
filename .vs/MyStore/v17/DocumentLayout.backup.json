@@ -1,44 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\API\\myproject\\MyStore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\inventory\\importation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\inventory\\importation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\inventory\\inventorystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\inventory\\inventorystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\identity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\identity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\inventory\\exportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\inventory\\exportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\orders\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\orders\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\inventory\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\inventory\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\core\\domain\\inventory\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3B5C9F-9A39-42EC-9AF9-A65932221BE3}|MyStore\\src\\Core\\Domain\\Domain.csproj|solutionrelative:mystore\\src\\core\\domain\\inventory\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7956707E-0EC6-437E-AD08-8D687E4108B7}|MyStore\\src\\Infrastructure\\Infrastructure.csproj|d:\\c#\\api\\myproject\\mystore\\mystore\\src\\infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7956707E-0EC6-437E-AD08-8D687E4108B7}|MyStore\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:mystore\\src\\infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -46,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 155,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,123 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Orders\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Orders\\OrderStatus.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Orders\\OrderStatus.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Orders\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:27:31.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Exportation.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Exportation.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Inventory\\Exportation.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Exportation.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Inventory\\Exportation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:19:33.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Identity\\Customer.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Identity\\Customer.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Identity\\Customer.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Identity\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:05:29.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Orders\\Order.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Orders\\Order.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Orders\\Order.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Orders\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:04:37.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryStatus.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\InventoryStatus.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Inventory\\InventoryStatus.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\InventoryStatus.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Inventory\\InventoryStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:48:36.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Importation.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Importation.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Inventory\\Importation.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Importation.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Inventory\\Importation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:44:42.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Supplier.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Inventory\\Supplier.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Supplier.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Inventory\\Supplier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:22:06.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Goods.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Goods.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Core\\Domain\\Inventory\\Goods.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Core\\Domain\\Inventory\\Goods.cs",
-              "RelativeToolTip": "MyStore\\src\\Core\\Domain\\Inventory\\Goods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:20:03.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MyStore\\src\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\C#\\API\\myproject\\MyStore\\MyStore\\src\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MyStore\\src\\Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T03:26:03.169Z",
-              "EditorCaption": ""
             }
           ]
         },

@@ -1,8 +1,10 @@
-﻿using System;
+﻿using MyStore.Domain.Payments;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace MyStore.Domain.Inventory;
@@ -19,4 +21,7 @@ public class Importation : AuditableEntity, IAggregateRoot
     public double Total { get; set; }
     public string? Notes { get; set; }
     public InventoryStatus Status { get; set; }
+
+    [JsonIgnore]
+    public Payout? Payout { get; set; }
 }

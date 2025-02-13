@@ -13,5 +13,8 @@ public class Supplier : AuditableEntity, IAggregateRoot
     public string Phone { get; set; }
 
     [JsonIgnore]
-    public ICollection<Goods>? HistorySupply { get; set; }
+    public ICollection<Goods>? Goods { get; set; }
+
+    [JsonIgnore]
+    public ICollection<Importation>? Importations { get; set; }
 }

@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using MyStore.Domain.Identity;
+using MyStore.Domain.Orders;
+using MyStore.Domain.Payments;
 using MyStore.Infrastructure.Identity;
 
 namespace MyStore.Infrastructure.Persistence.Configuration;
@@ -13,10 +15,6 @@ public class ApplicationUserConfig : IEntityTypeConfiguration<ApplicationUser>
         builder
             .ToTable("Users", SchemaNames.Identity)
             .IsMultiTenant();
-
-        builder
-            .Property(u => u.ObjectId)
-                .HasMaxLength(256);
     }
 }
 
@@ -94,11 +92,31 @@ public class HistorySalaryUserConfig : IEntityTypeConfiguration<HistoryOfSalary>
     {
 
         builder
-            .ToTable("Salary", SchemaNames.Identity)
+            .ToTable("HistorySalary", SchemaNames.Identity)
             .IsMultiTenant();
 
         builder
             .HasMany<ApplicationUser>()
             .WithOne();
+    }
+}
+
+public class CustomerConfig : IEntityTypeConfiguration<Customer>
+{
+    public void Configure(EntityTypeBuilder<Customer> builder)
+    {
+
+        builder
+            .ToTable("Customer", SchemaNames.Identity)
+            .IsMultiTenant();
+
+        builder
+            .HasMany<Order>()
+            .WithOne().HasForeignKey(b => b.CustomerID);
+
+        builder
+            .HasMany<Payment>()
+            .WithOne()
+            .HasForeignKey(_ => _.CustomerID);
     }
 }

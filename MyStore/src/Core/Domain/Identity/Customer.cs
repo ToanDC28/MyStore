@@ -1,4 +1,5 @@
 ﻿using MyStore.Domain.Orders;
+using MyStore.Domain.Payments;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,4 +18,6 @@ public class Customer : AuditableEntity, IAggregateRoot
 
     [JsonIgnore]
     public ICollection<Order>? Orders { get; set; }
+    [JsonIgnore]
+    public ICollection<Payment>? Payments { get; set; }
 }
